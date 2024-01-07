@@ -6,5 +6,5 @@
   
 [Hello World.md](https://github.com/tanakorn5670/hello-world2.git)
 
-[My card](hny)
+[My card](hny.png)
 
