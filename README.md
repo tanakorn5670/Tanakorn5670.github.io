@@ -11,3 +11,5 @@
 [PDPA.md](PDPA.md)
 
 [SecBlueTeam.md](SecBlueTeam.md)
+
+[FortinetCertifiedFundamentalsCybersecurity.md](FortinetCertifiedFundamentalsCybersecurity.md)
