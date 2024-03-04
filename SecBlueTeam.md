@@ -1,1 +1,1 @@
-![img](IntroductionToDarkWebOperations-course.png)
+![img](DarkWeb.png)
