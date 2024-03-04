@@ -9,3 +9,5 @@
 [My card](card.md)
 
 [PDPA.md](PDPA.md)
+
+[SecBlueTeam.md](SecBlueTeam.md)
