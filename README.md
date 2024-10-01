@@ -1,8 +1,10 @@
 # Tanakorn5670.github.io
 
- Tanakorn Pramualpollapat
+
+ ![Tanakorn Pramualpollapat](./[Your header image])
 + Information Technology
 + Institute of Vocational Education : Central Region 5
++ E-mail : bamcopter09@gmail.com
   
 Site is live at https://tanakorn5670.github.io
  
