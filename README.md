@@ -1,7 +1,7 @@
 <img src="github.png" />
 
 
-Tanakorn Pramualpollapat
+Tanakorn Pramualpollapat s
 + Information Technology
 + Institute of Vocational Education : Central Region 5
 + E-mail : bamcopter09@gmail.com
