@@ -18,4 +18,4 @@
 
 Digital Badges
 
-[Fundamentals of Predictive Project Management](https://www.credly.com/badges/b0274d87-da30-4f8a-97bd-b5fc9e1e2450/public_url)
++ [Fundamentals of Predictive Project Management](https://www.credly.com/badges/b0274d87-da30-4f8a-97bd-b5fc9e1e2450/public_url)
