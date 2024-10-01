@@ -8,7 +8,7 @@
  
 [Hello World.md](HW.md)
 
-[My card](card.md)
+Steganography: [Steganography](card.md)
 
 [PDPA.md](PDPA.md)
 
