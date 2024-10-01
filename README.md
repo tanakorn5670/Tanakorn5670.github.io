@@ -1,4 +1,4 @@
-<style="border: 1px solid black" ## Tanakorn5670.github.io />
+## Tanakorn5670.github.io
 
 
 Tanakorn Pramualpollapat
