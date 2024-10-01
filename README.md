@@ -1,7 +1,7 @@
-# Tanakorn5670.github.io
+<style="border: 1px solid black" ## Tanakorn5670.github.io />
 
 
- ![Tanakorn Pramualpollapat](./[Your header image])
+Tanakorn Pramualpollapat
 + Information Technology
 + Institute of Vocational Education : Central Region 5
 + E-mail : bamcopter09@gmail.com
