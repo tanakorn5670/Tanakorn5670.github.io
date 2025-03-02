@@ -23,3 +23,4 @@ Digital Badges
 + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/b0274d87-da30-4f8a-97bd-b5fc9e1e2450/public_url)
 + [Fundamentals of Agile Project Management](https://www.credly.com/badges/667bc32c-e9fe-4190-8fa6-ea6d57d0a7f6/public_url)
 + [Generative AI Overview for Project Managers](https://www.credly.com/badges/caac52fc-9651-4b15-b806-066de770ea15/public_url)
++ [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/64b16303-b6ee-4bde-a293-4f693375c82d/public_url)
